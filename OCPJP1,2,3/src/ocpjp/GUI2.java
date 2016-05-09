@@ -17,7 +17,7 @@ import javax.swing.JTextField;
 //Create top-level 
 @SuppressWarnings("serial")
 public class GUI2 extends JFrame{//Choose between interface inheritance and class inheritance
-	static JFrame J = new JFrame();
+	
 	private static JTextField tf,tf1,tf2,tf3,tf4;
 	private JButton B1;
 	private JLabel L1,L2,L3,L4;
